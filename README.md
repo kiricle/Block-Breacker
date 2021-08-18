@@ -1,5 +1,5 @@
 # Block-Breaker
-This repository contains code of basic "Breakout"-style game which i made during the [course on Udemy](https://www.udemy.com/course/unitycourse/learn/lecture/12802673#overview).
+This repository contains code of basic "Breakout"-style game which i made during the [course on Udemy on Unity and C#](https://www.udemy.com/course/unitycourse/learn/lecture/12802673#overview).
 
 I have learnt basics of Unity and C# while coding this game, for example:
 * exporting and importing packages
